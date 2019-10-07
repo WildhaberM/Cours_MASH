@@ -1,16 +1,16 @@
 # Mettre en ligne les exercices
 
-* Allez sur le dosser à votre nom
+* Allez sur le dossier à votre nom
 
-* Cliquez sur upload (cf. image _infra_)
+* Cliquez sur ```upload``` (cf. image _infra_)
 
 ![GitHub](img/Git_1.png)
 
-* Glissez le fichier à uploader en suivant cette convention de nommage: NomPrenom_exo1.xml (adaptez le chiffre)
+* Glissez le fichier à uploader en suivant cette convention de nommage: ```NomPrenom_exo1.xml``` (adaptez le chiffre)
 
-* Renseignez le champ “Commit changes” en ajoutant un petit message sur ce que vous faites (par exemple: “ajout du premier exercice”) dans le premier champ (laissez second libre).
+* Renseignez le champ ```Commit changes``` en ajoutant un petit message sur ce que vous faites (par exemple: “ajout du premier exercice”) dans le premier champ (laissez second libre).
 
-* Laissez cochée la case “commit direct to the master branch”
+* Laissez cochée la case ```commit direct to the master branch```
 
 * Cliquez ```Commit changes.```
 
