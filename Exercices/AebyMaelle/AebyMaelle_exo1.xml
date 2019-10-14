@@ -1,7 +1,7 @@
 <bibliographie>
 <entree format="livre">
 <auteur>
-<prénom>Lou</prénom>
+<prenom>Lou</prenom>
 <nom>Burnard</nom>
 </auteur>
 <titre>
@@ -14,7 +14,7 @@ Qu'est-ce que la Text Encoding Initiative ?
 <collection>Collection : Encyclopédie numérique</collection>
 <traducteur>
 Traduction de
-<prénom>Marjorie</prénom>
+<prenom>Marjorie</prenom>
 <nom>Burghart</nom>
 </traducteur>
 <date>
@@ -31,7 +31,7 @@ Utilisant de nombreux exemples de textes encodés en TEI issus de domaines vari�
 
 <entree format="article">
 <auteur>
-<prénom>Lou</prénom>
+<prenom>Lou</prenom>
 <nom>Burnard</nom>
 </auteur>
 <titre>The Evolution of the Text Encoding Initiative: From Research Project to Research Infrastructure</titre>
@@ -52,7 +52,7 @@ It is twenty-five years since the Text Encoding Initiative was first launched as
 
 <entree format="article">
 <auteur>
-<prénom>Jean-Baptiste</prénom>
+<prenom>Jean-Baptiste</prenom>
 <nom>Camps</nom>
 </auteur>
 <titre>Où va la philologie numérique ?</titre>
